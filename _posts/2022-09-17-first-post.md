@@ -4,6 +4,7 @@ title:  "thunder chicken"
 date:   2022-09-17 01:11:34 +0900
 categories: 2022-2
 usemathjax: true
+nav_order: 1
 ---
 # Thunder Chicken post
 
