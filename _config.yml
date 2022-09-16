@@ -45,18 +45,18 @@ search:
 
 color_scheme: nil
 
-collections:
-  2022-2:
-    permalink: ":/collection/:path"
-    output: true
-  2022-1:
-    permalink: ":/collection/:path"
-    output: true
+# collections:
+#   2022-2:
+#     permalink: ":/collection/:path"
+#     output: true
+#   2022-1:
+#     permalink: ":/collection/:path"
+#     output: true
 
-just_the_docs:
-  collections:
-    2022-2:
-      name: 2022-2
+# just_the_docs:
+#   collections:
+#     2022-2:
+#       name: 2022-2
 
-    2022-1:
-      name: 2022-1
+#     2022-1:
+#       name: 2022-1
