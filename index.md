@@ -1,13 +1,12 @@
 ---
-layout: post
-title:  "Welcome to Jekyll!"
+layout: 
+title:  "Home"
 date:   2022-09-16 21:22:34 +0900
-categories: 2022-2
-permalink: /
 usemathjax: true
 ---
 # Thunder Chicken
 
+Home
 $$f(x,y) = x^{2}y+xy^{2}$$
 
 $$f(x,y) = x^{2}y+xy^{2}$$
