@@ -6,17 +6,7 @@ usemathjax: true
 nav_order : 1
 # permalink: 
 ---
-# Thunder Chicken
+# MIMIC
+성균관대학교 수학과 학술 동아리
 
-Home
-$$f(x,y) = x^{2}y+xy^{2}$$
-
-$$f(x,y) = x^{2}y+xy^{2}$$
-
-$$
-\begin{align}
-a &= b+c\\
-&= c+d\\
-&\leq e + f
-\end{align}
-$$
+Since 2018
