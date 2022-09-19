@@ -5,7 +5,7 @@ date: 2022-09-17 01:11:34 +0900
 collection: 2022-2
 usemathjax: true
 # nav_order: 1
-parent : thunder chicken collection
+parent : Four Color Problem
 ---
 # Thunder Chicken collection
 
