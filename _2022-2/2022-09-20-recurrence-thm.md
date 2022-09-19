@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Poincaré recurrence theorem"
+title:  "Poincaré Recurrence Theorem"
 date: 2022-09-17 01:11:34 +0900
 collection: 2022-2
 usemathjax: true
