@@ -1,12 +1,12 @@
 ---
 layout: default
-title:  "thunder chicken"
+title:  "Time asymptotic behavior of compressible Euler equation"
 date: 2022-09-17 01:11:34 +0900
 collection: 2022-2
 usemathjax: true
 nav_order: 2
 ---
-# Thunder Chicken post
+# Time asymptotic behavior of compressible Euler equation
 
 $$f(x,y) = x^{2}y+xy^{2}$$
 
