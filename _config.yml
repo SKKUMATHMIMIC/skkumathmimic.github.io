@@ -37,9 +37,10 @@ mermaid:
 
 # Aux links for the upper right navigation
 aux_links:
+  "Instagram":
+    - "https://www.instagram.com/skku_math_mimic/"
   "Youtube":
     - "https://www.youtube.com/channel/UCF4w8Niu8UBYFX97l0r4mLQ"
-
 # Heading anchor links appear on hover over h1-h6 tags in page content
 # allowing users to deep link to a particular heading on a page.
 #
