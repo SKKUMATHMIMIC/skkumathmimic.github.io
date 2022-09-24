@@ -4,8 +4,8 @@ title:  "Four Color Problem"
 date: 2022-09-17 01:11:34 +0900
 collection: 2022-2
 usemathjax: true
-nav_order: 1
-parent: 2022 Fall
+nav_order: 2
+# parent: 2022 Fall
 last_modified_date: 2022-09-06 +0900
 ---
 # Four Color Problem

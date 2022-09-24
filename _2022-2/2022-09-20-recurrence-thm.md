@@ -4,9 +4,9 @@ title:  "Poincaré Recurrence Theorem"
 date: 2022-09-17 01:11:34 +0900
 collection: 2022-2
 usemathjax: true
-nav_order: 2
+nav_order: 3
 last_modified_date: 2022-09-13 +0900
-parent: 2022 Fall
+# parent: 2022 Fall
 ---
 # Poincaré Recurrence Theorem
 
