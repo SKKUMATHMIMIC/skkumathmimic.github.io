@@ -9,6 +9,13 @@ GEM
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
     eventmachine (1.2.7)
+    faraday (0.17.5)
+      multipart-post (>= 1.2, < 3)
+    faraday_middleware (0.14.0)
+      faraday (>= 0.7.4, < 1.0)
+    faraday_middleware-request-retry (0.2.0)
+      faraday (~> 0, >= 0)
+      faraday_middleware (~> 0, >= 0)
     ffi (1.15.5)
     ffi (1.15.5-x64-mingw-ucrt)
     forwardable-extended (2.6.0)
@@ -63,6 +70,7 @@ GEM
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.4.0)
     multi_json (1.15.0)
+    multipart-post (2.2.3)
     mustermann (2.0.2)
       ruby2_keywords (~> 0.0.1)
     pathutil (0.16.2)
@@ -111,6 +119,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
+  faraday_middleware-request-retry
   http_parser.rb (~> 0.6.0)
   jekyll (~> 4.2.2)
   jekyll-admin
