@@ -19,7 +19,7 @@ gem 'jekyll-admin'
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
   gem "jekyll-remote-theme"
-  gem "jekyll-pdf-embed"
+  # gem "jekyll-pdf-embed"
 end
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
@@ -39,3 +39,7 @@ gem "webrick", "~> 1.7"
 gem "jekyll-seo-tag"
 
 gem 'faraday-retry'
+
+source "https://rubygems.pkg.github.com/mihajlonesic" do
+  gem "jekyll-pdf-embed", "1.1.1"
+end
