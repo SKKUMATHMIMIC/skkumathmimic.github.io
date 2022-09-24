@@ -29,10 +29,4 @@ systems.
 
 ## PDF Download
 
-
-
-[here is possible to download the file in PDF][1]
-
-[1]:{{ skkumathmimic.github.io }}/2022-2_download/recurrence.pdf
-
 <object data="/2022-2_download/recurrence.pdf" width="750" height="1075" type='application/pdf'></object>

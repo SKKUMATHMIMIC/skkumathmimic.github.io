@@ -14,6 +14,4 @@ nav_order: 3
 
 
 ## PDF Download
-[here is possible to download the file in PDF][1]
-
-[1]:{{ skkumathmimic.github.io }}/2022-2_download/time_asymptotic_behavior_of_compressible_Euler_equation.pdf
+<object data="/2022-2_download/time_asymptotic_behavior_of_compressible_Euler_equation.pdf" width="750" height="1075" type='application/pdf'></object>
