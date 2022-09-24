@@ -38,6 +38,3 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 gem "webrick", "~> 1.7"
 gem "jekyll-seo-tag"
 
-source "https://rubygems.pkg.github.com/mihajlonesic" do
-  gem "jekyll-pdf-embed", "1.1.1"
-end

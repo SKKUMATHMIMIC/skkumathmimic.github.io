@@ -31,7 +31,7 @@ systems.
 
 
 <!-- {% pdf {{"/2022-2_download/recurrence.pdf"}} no_link height=1075px %} -->
-{% raw %} pdf {{"/2022-2_download/recurrence.pdf"}} height=1075px {% endraw %}
+{% pdf {{"/2022-2_download/recurrence.pdf"}} height=1075px %}
 
 <!-- [here is possible to download the file in PDF][1]
 
