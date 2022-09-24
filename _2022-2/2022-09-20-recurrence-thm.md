@@ -30,10 +30,9 @@ systems.
 ## PDF Download
 
 
-<!-- {% pdf {{"/2022-2_download/recurrence.pdf"}} no_link height=1075px %} -->
-<!-- {% raw %} 
-    {% pdf {{"/2022-2_download/recurrence.pdf"}} height=1075px %} 
-{% endraw %} -->
+
 [here is possible to download the file in PDF][1]
 
 [1]:{{ skkumathmimic.github.io }}/2022-2_download/recurrence.pdf
+
+<object data="/2022-2_download/recurrence.pdf" width="750" height="1075" type='application/pdf'></object>
