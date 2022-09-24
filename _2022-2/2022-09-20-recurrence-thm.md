@@ -31,9 +31,9 @@ systems.
 
 
 <!-- {% pdf {{"/2022-2_download/recurrence.pdf"}} no_link height=1075px %} -->
-{% raw %} 
+<!-- {% raw %} 
     {% pdf {{"/2022-2_download/recurrence.pdf"}} height=1075px %} 
-{% endraw %}
-<!-- [here is possible to download the file in PDF][1]
+{% endraw %} -->
+[here is possible to download the file in PDF][1]
 
-[1]:{{ skkumathmimic.github.io }}/2022-2_download/recurrence.pdf -->
+[1]:{{ skkumathmimic.github.io }}/2022-2_download/recurrence.pdf
