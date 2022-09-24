@@ -52,19 +52,20 @@ markdown: kramdown
 color_scheme: light
 
 collections:
-  2022-1:
-    permalink: "/:collection/:path/"
-    output: true
+  # 2022-1:
+  #   permalink: "/:collection/:path/"
+  #   output: true
   2022-2:
     permalink: "/:collection/:path/"
     output: true
 
 just_the_docs:
   collections:
-    2022-1:
-      name: 2022-1
     2022-2:
       name: 2022-2
+    # 2022-1:
+    #   name: 2022-1
+
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
 

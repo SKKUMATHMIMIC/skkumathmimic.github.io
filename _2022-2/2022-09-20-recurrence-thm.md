@@ -6,7 +6,7 @@ collection: 2022-2
 usemathjax: true
 nav_order: 2
 last_modified_date: 2022-09-13 +0900
-
+parent: 2022 Fall
 ---
 # Poincaré Recurrence Theorem
 
@@ -29,4 +29,4 @@ systems.
 
 ## PDF Download
 
-<object data="/2022-2_download/recurrence.pdf" width="750" height="1075" type='application/pdf'></object>
+<object data="../2022-2_download/recurrence.pdf" width="750" height="1075" type='application/pdf'></object>

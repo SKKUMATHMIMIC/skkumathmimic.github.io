@@ -6,6 +6,7 @@ collection: 2022-2
 usemathjax: true
 last_modified_date: 2022-09-20 +0900
 nav_order: 3
+parent: 2022 Fall
 ---
 # Time asymptotic behavior of compressible Euler equation
 
@@ -14,4 +15,4 @@ nav_order: 3
 
 
 ## PDF Download
-<object data="/2022-2_download/time_asymptotic_behavior_of_compressible_Euler_equation.pdf" width="750" height="1075" type='application/pdf'></object>
+<object data="../2022-2_download/time_asymptotic_behavior_of_compressible_Euler_equation.pdf" width="750" height="1075" type='application/pdf'></object>
