@@ -11,5 +11,4 @@ has_toc: true
 ---
 # 2022 Fall
 
-![Alt text](./MIMIC OT 22-2.pptx.svg)
-<img src="/MIMIC OT 22-2.pptx.svg">
+<img src="../MIMIC OT 22-2.pptx.svg">
