@@ -51,7 +51,7 @@ heading_anchors: true
 
 markdown: kramdown
 
-color_scheme: light
+color_scheme: green
 
 collections:
   about:
