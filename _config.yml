@@ -41,6 +41,8 @@ aux_links:
     - "https://www.instagram.com/skku_math_mimic/"
   "Youtube":
     - "https://www.youtube.com/channel/UCF4w8Niu8UBYFX97l0r4mLQ"
+
+
 # Heading anchor links appear on hover over h1-h6 tags in page content
 # allowing users to deep link to a particular heading on a page.
 #
@@ -52,6 +54,9 @@ markdown: kramdown
 color_scheme: light
 
 collections:
+  about:
+    permalink: "/:collection/:path/"
+    output: true
   2022-1:
     permalink: "/:collection/:path/"
     output: true
@@ -62,8 +67,11 @@ collections:
     permalink: "/:collection/:path/"
     output: true
 
+
 just_the_docs:
   collections:
+    about:
+      name: About
     2022-2:
       name: 2022-2
     2022-1:
@@ -72,7 +80,7 @@ just_the_docs:
       name: old
 
 # Makes Aux links open in a new tab. Default is false
-aux_links_new_tab: false
+aux_links_new_tab: true
 
 
 search_enabled: true
@@ -105,6 +113,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-pdf-embed
+  - jekyll-archives
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -128,3 +137,4 @@ plugins:
 
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
 last_edit_time_format: "%b %e %Y" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
+
