@@ -11,11 +11,4 @@ parent: 예전 자료
 
 <!-- ## PDF Download -->
 
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-</head>
-<body>
-<object data="../old_download/Space_Filling_Curve.pdf" width="750" height="1075" type='application/pdf'></object>
-</body>
-</html>
+<object data="../old_download/Space_Filling_Curve.pdf"  height="1075" type='application/pdf'></object>
