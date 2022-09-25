@@ -17,10 +17,9 @@ parent: 예전 자료
 </body>
 </html> -->
 <html>
-<head>
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-</head>
+<!-- <div meta name="viewport" content="width=device-width, initial-scale=100" > -->
 <body>
-    <embed src="../old_download/Space_Filling_Curve.pdf" width="100vw" height="100vh">
+    <embed src="../old_download/Space_Filling_Curve.pdf" width="750vw" height="1075vh">
 </body>
+<!-- </div> -->
 </html>
