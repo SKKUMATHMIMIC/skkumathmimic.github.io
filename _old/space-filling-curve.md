@@ -19,7 +19,7 @@ parent: 예전 자료
 <html>
 <!-- <div meta name="viewport" content="width=device-width, initial-scale=100" > -->
 <body>
-    <embed src="../old_download/Space_Filling_Curve.pdf" width="750vw" height="1075vh">
+    <iframe src="../old_download/Space_Filling_Curve.pdf" width="750vw" height="1075vh">
 </body>
 <!-- </div> -->
 </html>
