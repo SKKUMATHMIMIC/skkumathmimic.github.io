@@ -9,6 +9,6 @@ parent: 예전 자료
 ---
 # Mathematics in Modern Physics
 
-## PDF Download
+<!-- ## PDF Download -->
 
 <object data="../old_download/Mathematics in Modern Physics.pdf" width="750" height="1075" type='application/pdf'></object>

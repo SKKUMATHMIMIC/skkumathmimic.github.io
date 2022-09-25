@@ -24,6 +24,5 @@ collections: 2022-1
 
 [![Video Label](https://img.youtube.com/vi/i1NnNOVMxw4/hqdefault.jpg)](https://youtu.be/i1NnNOVMxw4)
 
-## PDF Download
 
 <object data="../2022_1_download/euler_maclaurin_final.pdf" width="750" height="1075" type='application/pdf'></object>

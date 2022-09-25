@@ -9,6 +9,6 @@ parent: 예전 자료
 ---
 # Construction of Lebesgue Measure
 
-## PDF Download
+<!-- ## PDF Download -->
 
 <object data="../old_download/Construction of Lebesgue Measure.pdf" width="750" height="1075" type='application/pdf'></object>

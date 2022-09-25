@@ -17,6 +17,6 @@ collections: 2022-1
 
 [![Video Label](https://img.youtube.com/vi/7Fm9ajxgZQc/hqdefault.jpg)](https://youtu.be/7Fm9ajxgZQc)
 
-## PDF Download
+<!-- ## PDF Download -->
 
 <object data="../2022_1_download/Homology_Group.pdf" width="750" height="1075" type='application/pdf'></object>

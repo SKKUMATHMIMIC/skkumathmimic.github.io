@@ -27,6 +27,6 @@ collections: 2022-1
 
 [![Video Label](https://img.youtube.com/vi/SUJp5lvfmuE/hqdefault.jpg)](https://youtu.be/SUJp5lvfmuE)
 
-## PDF Download
+<!-- ## PDF Download -->
 
 <object data="../2022_1_download/incompleteness.pdf" width="750" height="1075" type='application/pdf'></object>

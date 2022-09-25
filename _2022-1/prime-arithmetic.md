@@ -17,6 +17,6 @@ collections: 2022-1
 
 [![Video Label](https://img.youtube.com/vi/L6d_R9bA4gc/hqdefault.jpg)](https://youtu.be/L6d_R9bA4gc)
 
-## PDF Download
+<!-- ## PDF Download -->
 
 <object data="../2022_1_download/arithemetic_prime.pdf" width="750" height="1075" type='application/pdf'></object>

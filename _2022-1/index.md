@@ -11,6 +11,6 @@ has_toc : true
 collections: 2022-1
 
 ---
-# 2022 Spring
+# 2022 Spring Seminar
 
 <img src="../MIMIC OT 22-1.pptx.svg">

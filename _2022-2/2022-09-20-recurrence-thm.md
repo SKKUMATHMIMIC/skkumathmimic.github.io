@@ -6,7 +6,7 @@ collection: 2022-2
 usemathjax: true
 nav_order: 3
 last_modified_date: 2022-09-13 +0900
-# parent: 2022 Fall
+parent: 2022 Fall Seminar
 ---
 # Poincaré Recurrence Theorem
 
@@ -27,6 +27,6 @@ systems.
 
 [![Video Label](https://img.youtube.com/vi/jAQ5uYeO2GI/hqdefault.jpg)](https://www.youtube.com/watch?v=jAQ5uYeO2GI&list=PL5EBXKsSx99kspIotz9slQHyIYxaBY_Q3&index=2)
 
-## PDF Download
+<!-- ## PDF Download -->
 
 <object data="../2022-2_download/recurrence.pdf" width="750" height="1075" type='application/pdf'></object>

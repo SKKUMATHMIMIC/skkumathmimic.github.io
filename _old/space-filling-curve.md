@@ -9,6 +9,6 @@ parent: 예전 자료
 ---
 # Space Filling Curve
 
-## PDF Download
+<!-- ## PDF Download -->
 
 <object data="../old_download/Space_Filling_Curve.pdf" width="750" height="1075" type='application/pdf'></object>

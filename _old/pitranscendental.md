@@ -9,6 +9,6 @@ parent: 예전 자료
 ---
 # $\pi$는 초월수
 
-## PDF Download
+<!-- ## PDF Download -->
 
 <object data="../old_download/pi는 초월수.pdf" width="750" height="1075" type='application/pdf'></object>

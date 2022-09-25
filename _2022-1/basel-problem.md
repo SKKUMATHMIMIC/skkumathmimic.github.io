@@ -14,6 +14,6 @@ parent: 2022 Spring
 
 [![Video Label](https://img.youtube.com/vi/IG8vauwDC5c/hqdefault.jpg)](https://youtu.be/IG8vauwDC5c)
 
-## PDF Download
+<!-- ## PDF Download -->
 
 <object data="../2022_1_download/basel_problem.pdf" width="750" height="1075" type='application/pdf'></object>

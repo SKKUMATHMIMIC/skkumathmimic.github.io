@@ -9,6 +9,6 @@ parent: 예전 자료
 ---
 # Banach Fixed Point Theorem
 
-## PDF Download
+<!-- ## PDF Download -->
 
 <object data="../old_download/Banach Fixed Point Theorem.pdf" width="750" height="1075" type='application/pdf'></object>

@@ -9,6 +9,6 @@ parent: 예전 자료
 ---
 # Introduction to Inverse Sequence
 
-## PDF Download
+<!-- ## PDF Download -->
 
 <object data="../old_download/Introduction to Inverse Sequence.pdf" width="750" height="1075" type='application/pdf'></object>
