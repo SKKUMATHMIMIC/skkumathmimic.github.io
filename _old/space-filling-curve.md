@@ -10,11 +10,17 @@ parent: 예전 자료
 # Space Filling Curve
 
 <!-- ## PDF Download -->
-<html>
+<!-- <html>
 <body>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <object data="../old_download/Space_Filling_Curve.pdf" width="750"  height="1075" type='application/pdf'></object>
 </body>
+</html> -->
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+</head>
+<body>
+    <embed src="../old_download/Space_Filling_Curve.pdf" width="100vw" height="100vh">
+</body>
 </html>
-
- {% pdf "../old_download/Space_Filling_Curve.pdf height="1075" %}
