@@ -13,6 +13,8 @@ parent: 예전 자료
 <html>
 <body>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <object data="../old_download/Space_Filling_Curve.pdf"  height="1075" type='application/pdf'></object>
+    <object data="../old_download/Space_Filling_Curve.pdf" width="750"  height="1075" type='application/pdf'></object>
 </body>
 </html>
+
+ {% pdf "../old_download/Space_Filling_Curve.pdf height="1075" %}
