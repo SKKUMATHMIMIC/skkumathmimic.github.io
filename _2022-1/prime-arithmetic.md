@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Length of Prime Number"
+title:  "Primes in Arithmetic Progression"
 date: 2022-09-17 01:11:34 +0900
 # collection: 2022-2
 usemathjax: true
@@ -11,7 +11,7 @@ parent: 2022 Spring
 collections: 2022-1
 
 ---
-# Length of Prime Number
+# Primes in Arithmetic Progression
 
 ## Video Link
 
