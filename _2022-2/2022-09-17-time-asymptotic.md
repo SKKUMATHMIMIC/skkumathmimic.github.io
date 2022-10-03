@@ -5,7 +5,7 @@ date: 2022-09-17 01:11:34 +0900
 collection: 2022-2
 usemathjax: true
 last_modified_date: 2022-09-20 +0900
-nav_order: 4
+nav_order: 3
 parent: 2022 Fall Seminar
 ---
 # Time asymptotic behavior of compressible Euler equation
