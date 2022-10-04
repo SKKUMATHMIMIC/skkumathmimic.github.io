@@ -22,4 +22,4 @@ tool.
 
 <!-- ## PDF Download -->
 
-<object data="../2022-2_download/four_color.pdf" width="750" height="1075" type='application/pdf'></object>
+<a target='_blank' href='../2022-2_download/four_color.pdf'>Four Color Problem PDF</a>
