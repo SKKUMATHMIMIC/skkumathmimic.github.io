@@ -7,7 +7,7 @@ usemathjax: true
 last_modified_date: 2022-10-04 +0900
 nav_order: 5
 parent: 2022 Fall Seminar
-nav_exclude: true
+# nav_exclude: true
 ---
 # π is irrational Number
 
