@@ -29,4 +29,5 @@ collections: 2022-1
 
 <!-- ## PDF Download -->
 
-<object data="../2022_1_download/incompleteness.pdf" width="750" height="1075" type='application/pdf'></object>
+<!-- <object data="../2022_1_download/incompleteness.pdf" width="750" height="1075" type='application/pdf'></object> -->
+<a target='_blank' href='../../2022_1_download/incompleteness.pdf'>incompleteness PDF</a>
