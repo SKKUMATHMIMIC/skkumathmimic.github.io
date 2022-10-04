@@ -9,17 +9,5 @@ parent: 예전 자료
 ---
 # Space Filling Curve
 
-<!-- ## PDF Download -->
-<!-- <html>
-<body>
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <object data="../old_download/Space_Filling_Curve.pdf" width="750"  height="1075" type='application/pdf'></object>
-</body>
-</html> -->
-<html>
-<!-- <div meta name="viewport" content="width=device-width, initial-scale=100" > -->
-<body>
-    <iframe src="../old_download/Space_Filling_Curve.pdf" width="750vw" height="1075vh">
-</body>
-<!-- </div> -->
-</html>
+## PDF Download
+<a target='_blank' href='../old_download/Space_Filling_Curve.pdf'>Space_Filling_Curve PDF</a>

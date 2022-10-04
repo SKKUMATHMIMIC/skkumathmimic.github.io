@@ -20,4 +20,4 @@ collections: 2022-1
 <!-- ## PDF Download -->
 
 <!-- <object data="../2022_1_download/Geometric_Structures_on_Manifolds.pdf" width="750" height="1075" type='application/pdf'></object> -->
-<a target='_blank' href='../../2022_1_download/Geometric_Structures_on_Manifolds.pdf'>Geometric_Structures_on_Manifolds PDF</a>
+<a target='_blank' href='../2022_1_download/Geometric_Structures_on_Manifolds.pdf'>Geometric_Structures_on_Manifolds PDF</a>

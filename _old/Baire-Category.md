@@ -9,6 +9,7 @@ parent: 예전 자료
 ---
 # Baire Category Theorem
 
-<!-- ## PDF Download -->
+## PDF Download
 
-<object data="../old_download/Baire’s+category+Theorem-배포용.pdf" width="750" height="1075" type='application/pdf'></object>
+<!-- <object data="../old_download/Baire’s+category+Theorem-배포용.pdf" width="750" height="1075" type='application/pdf'></object> -->
+<a target='_blank' href='../old_download/Baire’s+category+Theorem-배포용.pdf'>Baire's Category Theorem PDF</a>
