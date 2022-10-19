@@ -7,6 +7,7 @@ usemathjax: true
 # collection: 
 # parent: 예전 자료
 has_toc: true
+nav_exclude: true
 permalink: /basic
 ---
 
