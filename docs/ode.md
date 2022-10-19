@@ -10,6 +10,14 @@ has_toc: true
 nav_exclude: true
 permalink: /ode
 ---
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 
 # Euler's Method

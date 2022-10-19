@@ -10,6 +10,14 @@ has_toc: true
 permalink: /la
 nav_exclude: true
 ---
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 # Linear Algebra with SciPy
 The main Python package for linear algebra is the SciPy subpackage `scipy.linalg` which builds on NumPy. Let's import both packages:

@@ -10,7 +10,14 @@ has_toc: true
 nav_exclude: true
 permalink: /basic
 ---
-
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 # numpy linear algebra matrix multiplication
 Matrix powers are performed by the function `numpy.linalg.matrix_power`. It's a long function name and so it's convenient to import it with a shorter name:
