@@ -57,7 +57,8 @@ that "best fits" the data. There are different ways to quantify what "best fit" 
 $$SSE = \sum_{i}(y_{i}-(a_{0}+a_{i}x_{i}))^{2}$$
 ### Formulation
 If we form matrices 
-$$ X = 
+$$
+X = 
 \begin{bmatrix} 
 1 & x_{0}\\
 1 & x_{1}\\
@@ -72,7 +73,8 @@ y_{n}
 \end{bmatrix}
 
 \mathbb{a} = \begin{bmatrix} a_{0} \\a_{1} \end{bmatrix}$$
-then the sum of squared errors can be expressed as $$SSE = \left|\mathbf{y}-X\mathbf{a}\right|^{2}$$
+then the sum of squared errors can be expressed as 
+$$SSE = \left|\mathbf{y}-X\mathbf{a}\right|^{2}$$
 
 **Theorem.** (Least Squares Regression) Consider $n+1$ points
 $$\left(x_{0}, y_{0}\right), \left(x_{1},y_{1}\right), \dots, \left(x_{n}, y_{n}\right)$$
