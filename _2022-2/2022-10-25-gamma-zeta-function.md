@@ -12,10 +12,9 @@ author: 주현욱
 ---
 # Gamma Function and Zeta Function
 
-<!-- ## <center> Abstract </center>
-π is known as a familiar irrational number. However, in the high school curriculum and undergraduate courses, we accept the fact that π is irrational
-without any proof. In this article, we review the three proofs of Ivan
-Niven, Lambert and Cartwright. -->
+## <center> Abstract </center>
+Analytic continuity is a technique for extending the domain of a function through another function that includes it. Through this technique, Riemann extended the domain of the zeta function to all complex numbers except 1. In this seminar, we will learn how the domain of the zeta function is expanded and the gamma function that is essential to know this method.
+
 
 ## Video Link
 [![Video Label](https://img.youtube.com/vi/pWwowSbecNI/hqdefault.jpg)](https://youtu.be/pWwowSbecNI)
