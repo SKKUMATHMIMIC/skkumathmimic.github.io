@@ -11,4 +11,12 @@ has_toc: true
 ---
 # 2022 Fall Seminar
 
+# [Zoom] 
+
+회의 ID: 890 0441 2055
+암호: MIMIC
+
+
 <img src="../MIMIC OT 22-2.pptx.svg">
+
+[Zoom]: https://us02web.zoom.us/j/89004412055?pwd=Z3pIbmM5VFU1TXZXQzY5MUFic0o3QT09

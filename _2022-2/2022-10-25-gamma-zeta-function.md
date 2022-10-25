@@ -17,11 +17,11 @@ author: 주현욱
 without any proof. In this article, we review the three proofs of Ivan
 Niven, Lambert and Cartwright. -->
 
-<!-- ## Video Link
-[![Video Label](https://img.youtube.com/vi/CdAgBWH1UlY/hqdefault.jpg)](https://youtu.be/CdAgBWH1UlY) -->
+## Video Link
+[![Video Label](https://img.youtube.com/vi/pWwowSbecNI/hqdefault.jpg)](https://youtu.be/pWwowSbecNI)
 
 
 ## PDF Download
 <a target='_blank' href='../2022-2_download/gamma_zeta_function.pdf'>Gamma Function and Zeta Function</a> 
 
-![image](../gamma_zeta.png)
+<!-- ![image](../gamma_zeta.png) -->
