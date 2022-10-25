@@ -22,4 +22,6 @@ Niven, Lambert and Cartwright. -->
 
 
 ## PDF Download
-<a target='_blank' href='../2022-2_download/Proof_of_Irrationality_of_pi.pdf'>Gamma Function and Zeta Function</a> --> -->
+<a target='_blank' href='../2022-2_download/Proof_of_Irrationality_of_pi.pdf'>Gamma Function and Zeta Function</a> --> 
+
+![image](../gamma_zeta.png)
