@@ -11,6 +11,7 @@ parent: 2022 Spring
 collections: 2022-1
 
 ---
+발표자: 2019313368 수학과 이호준
 # Gödel’s incompleteness theorems
 
 ## <center> Abstract </center>

@@ -1,15 +1,15 @@
 ---
 layout: default
-title:  "Senior"
+title:  "Staff"
 date: 2022-09-17 01:11:34 +0900
 collection: about
 usemathjax: true
 nav_order: 2
 last_modified_date: 2022-09-13 +0900
-permalink: /mimic/
-nav_exclude: true
+permalink: /staff/
+# nav_exclude: true
 ---
-<details open markdown="block">
+<!-- <details open markdown="block">
   <summary>
     Table of contents
   </summary>
@@ -40,4 +40,10 @@ nav_exclude: true
  전공: 대수학
 
 >유**훈 C대\\
- 전공: 기하/위상수학
+ 전공: 기하/위상수학 -->
+
+> 회장 : 유재훈 2019310729
+  fkrkty93@g.skku.edu
+
+>부회장 : 이호준 2019313368
+  hojoon1101@g.skku.edu

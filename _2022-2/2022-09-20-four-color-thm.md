@@ -8,6 +8,7 @@ nav_order: 1
 parent: 2022 Fall Seminar
 last_modified_date: 2022-09-06 +0900
 ---
+발표자: 2019313368 수학과 이호준
 # Four Color Problem
 ## <center> Abstract </center>
 Francis Guthrie claimed in 1852 the four color problem. We
