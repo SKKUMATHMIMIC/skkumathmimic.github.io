@@ -21,6 +21,6 @@ author: 한도형
 
 
 ## PDF Download
-<a target='_blank' href='../2022-2_download/transpose of a linear map.pdf'>Transpose of Linear Map</a> 
+<a target='_blank' href='../2022-2_download/transpose_of_linear_map.pdf'>Transpose of Linear Map</a> 
 
 <!-- ![image](../gamma_zeta.png) -->
