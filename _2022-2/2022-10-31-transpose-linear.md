@@ -10,8 +10,6 @@ parent: 2022 Fall Seminar
 author: 한도형
 # nav_exclude: true
 ---
-발표자: 2018310511 수학과 한도형
-
 # Transpose of Linear Map
 
 ## <center> Abstract </center>
