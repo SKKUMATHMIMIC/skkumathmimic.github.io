@@ -60,10 +60,10 @@ collections:
   2023-1:
     permalink: "/:collection/:path/"
     output: true
-  2022-1:
+  2022-2:
     permalink: "/:collection/:path/"
     output: true
-  2022-2:
+  2022-1:
     permalink: "/:collection/:path/"
     output: true
   old:
