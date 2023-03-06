@@ -57,6 +57,9 @@ collections:
   about:
     permalink: "/:collection/:path/"
     output: true
+  2023-1:
+    permalink: "/:collection/:path/"
+    output: true
   2022-1:
     permalink: "/:collection/:path/"
     output: true
@@ -72,6 +75,8 @@ just_the_docs:
   collections:
     about:
       name: About
+    2023-1:
+      name: 2023-1
     2022-2:
       name: 2022-2
     2022-1:
