@@ -11,10 +11,10 @@ has_toc: true
 ---
 # 2023 Spring Seminar
 
-<!-- # [Zoom] 
+# [Zoom] 
 
-회의 ID: 890 0441 2055
-암호: MIMIC -->
+회의 ID: 857 5716 5329
+암호: MIMIC
 
 Monday Seminar
 <img src="../mond.svg">
@@ -22,4 +22,4 @@ Monday Seminar
 Tuesday Seminar
 <img src="../tues.svg">
 
-<!-- [Zoom]: https://us02web.zoom.us/j/89004412055?pwd=Z3pIbmM5VFU1TXZXQzY5MUFic0o3QT09 -->
+[Zoom]: https://us02web.zoom.us/j/85757165329?pwd=aExKVjdiL2cxVUVsK2FudXNEczR2dz09
