@@ -57,6 +57,9 @@ collections:
   about:
     permalink: "/:collection/:path/"
     output: true
+  2023-2:
+    permalink: "/:collection/:path"
+    output: true
   2023-1:
     permalink: "/:collection/:path/"
     output: true
