@@ -43,6 +43,8 @@ GEM
       jekyll (>= 3.6, < 5.0)
     jekyll-feed (0.16.0)
       jekyll (>= 3.7, < 5.0)
+    jekyll-include-cache (0.2.1)
+      jekyll (>= 3.7, < 5.0)
     jekyll-pdf-embed (1.1.2.1)
       jekyll
     jekyll-remote-theme (0.4.3)
@@ -122,6 +124,7 @@ DEPENDENCIES
   jekyll-admin
   jekyll-archives
   jekyll-feed (~> 0.12)
+  jekyll-include-cache
   jekyll-pdf-embed
   jekyll-remote-theme
   jekyll-seo-tag

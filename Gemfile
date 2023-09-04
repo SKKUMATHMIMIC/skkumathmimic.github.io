@@ -21,6 +21,7 @@ group :jekyll_plugins do
   gem "jekyll-remote-theme"
   gem "jekyll-pdf-embed"
   gem "jekyll-archives"
+  gem "jekyll-include-cache"
 end
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
