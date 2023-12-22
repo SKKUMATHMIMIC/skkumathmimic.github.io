@@ -11,7 +11,6 @@ has_toc: true
 ---
 # 2023 Autumn Seminar
 
-Monday Seminar
-<img src="../Sep.png">
+![Sep](../_2023-2/Sep.png)
 
-<img src="../OCT_NOV.png">
+![OCT](../_2023-2/OCT_NOV.png)
