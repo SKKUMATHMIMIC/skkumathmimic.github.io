@@ -4,7 +4,7 @@ title:  "Dirichlet's Theorem on Arithmetic Progression"
 date: 2023-10-30 01:11:34 +0900
 collection: 2023-2
 usemathjax: true
-nav_order: 6
+nav_order: 7
 parent: 2023 Autumn Seminar
 # last_modified_date: 2023-03-06 +0900
 ---

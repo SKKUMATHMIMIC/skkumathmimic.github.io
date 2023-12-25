@@ -4,7 +4,7 @@ title:  "Homomorphic Encryption"
 date: 2023-11-13 01:11:34 +0900
 collection: 2023-2
 usemathjax: true
-nav_order: 10
+nav_order: 11
 parent: 2023 Autumn Seminar
 last_modified_date: 2023-03-06 +0900
 ---
