@@ -4,7 +4,7 @@ title:  "Structure of sl(2,F) - module"
 date: 2023-11-06 01:11:34 +0900
 collection: 2023-2
 usemathjax: true
-nav_order: 8
+nav_order: 9
 parent: 2023 Autumn Seminar
 last_modified_date: 2023-03-06 +0900
 ---
