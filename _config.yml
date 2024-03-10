@@ -57,6 +57,9 @@ collections:
   about:
     permalink: "/:collection/:path/"
     output: true
+  2024-1:
+    permalink: "/:collection/:path"
+    output: true
   2023-2:
     permalink: "/:collection/:path"
     output: true
@@ -69,7 +72,7 @@ collections:
   2022-1:
     permalink: "/:collection/:path/"
     output: true
-  old:
+  Legacy:
     permalink: "/:collection/:path/"
     output: true
 
@@ -78,6 +81,8 @@ just_the_docs:
   collections:
     about:
       name: About
+    2024-1:
+      name: 2024-1
     2023-2:
       name: 2023-2
     2023-1:
@@ -86,8 +91,8 @@ just_the_docs:
       name: 2022-2
     2022-1:
       name: 2022-1
-    old:
-      name: old
+    Legacy:
+      name: Legacy
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
