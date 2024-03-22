@@ -12,4 +12,4 @@ parent: 예전 자료
 ## PDF Download
 
 <!-- <object data="../old_download/Calculus of Variations.pdf" width="750" height="1075" type='application/pdf'></object> -->
-<a target='_blank' href='../old_download/Calculus of Variations.pdf'>Calculus of Variatoins PDF</a>
+<a target='_blank' href='../old_download/Calculus of Variations.pdf'>Calculus of Variations PDF</a>
