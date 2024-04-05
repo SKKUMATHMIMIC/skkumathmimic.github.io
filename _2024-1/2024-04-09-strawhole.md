@@ -1,14 +1,14 @@
 ---
 layout: default
-title:  "Classification of the Surfaces"
-date: 2024-03-21 18:00:34 +0900
+title:  "빨대 구멍의 개수는 몇 개?"
+date: 2024-04-09 18:00:00 +0900
 collection: 2024-1
 usemathjax: true
 nav_order: 9
 parent: 2024 Spring Seminar
 # last_modified_date: 2023-03-06 +0900
 ---
-# Classification of the Surfaces
+# 빨대 구멍의 개수는 몇 개?
 <!-- ## <center> Abstract </center>
 Francis Guthrie claimed in 1852 the four color problem. We
 proof two essential lemmas and then solve six color problem. We expand
