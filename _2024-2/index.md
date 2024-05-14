@@ -2,7 +2,7 @@
 layout: default
 title:  "2024 Fall Seminar"
 # date: 2024-03-8 01:11:34 +0900
-collection: 2024-1
+collection: 2024-2
 # usemathjax: true
 nav_order: 1
 # last_modified_date: 2023-03-06 +0900
@@ -12,6 +12,14 @@ has_toc: true
 # 2024 Fall Seminar
 
 TBA
+
+<!-- ![mar](../2024-1/March.png)
+
+![apr](../2024-1/April.png)
+
+![May](../2024-1/May.png)
+
+![June](../2024-1/June.png) -->
 
 # [Zoom] 
 <!-- 

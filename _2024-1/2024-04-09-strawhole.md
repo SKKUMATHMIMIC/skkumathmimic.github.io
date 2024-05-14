@@ -16,10 +16,10 @@ the proof of six color problem into five, four color problem. Kempe
 published this proof in 1879. However the flaw was discovered in 1890
 by Heawood. Although flawed, Kempe’s idea was used as one of a basic
 tool. -->
-<!-- ## Video Link -->
+## Video Link
 
-<!-- [![Video Label](https://img.youtube.com/vi/KhZUkZy80sI/hqdefault.jpg)](https://youtu.be/KhZUkZy80sI) -->
+[![Video Label](https://img.youtube.com/vi/45cGYRexW0k/hqdefault.jpg)](https://youtu.be/45cGYRexW0k)
 
-<!-- ## PDF Download -->
+## PDF Download
 
-<!-- <a target='_blank' href='../2024-1/2024-1_download/region.pdf'>Region Select Game PDF</a> -->
+<a target='_blank' href='../2024-1/2024-1_download/straw.pdf'>빨대구멍의 개수 PDF</a>

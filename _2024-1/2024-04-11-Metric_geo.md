@@ -1,14 +1,14 @@
 ---
 layout: default
-title:  "p-adic Number"
-date: 2024-03-28 18:00:34 +0900
+title: "An Introduction to the Gromov-Hausdorff distance between spheres"
+date: 2024-04-11 18:00:00 +0900
 collection: 2024-1
 usemathjax: true
-nav_order: 6
+nav_order: 10
 parent: 2024 Spring Seminar
 # last_modified_date: 2023-03-06 +0900
 ---
-# p-adic Number
+# An Introduction to the Gromov-Hausdorff distance between spheres
 <!-- ## <center> Abstract </center>
 Francis Guthrie claimed in 1852 the four color problem. We
 proof two essential lemmas and then solve six color problem. We expand
@@ -18,8 +18,8 @@ by Heawood. Although flawed, Kempe’s idea was used as one of a basic
 tool. -->
 ## Video Link
 
-[![Video Label](https://img.youtube.com/vi/p3TdR9_m4q8/hqdefault.jpg)](https://youtu.be/p3TdR9_m4q8?feature=shared)
+[![Video Label](https://img.youtube.com/vi/wa3-x7b52gM/hqdefault.jpg)](https://youtu.be/wa3-x7b52gM)
 
-<!-- ## PDF Download -->
+## PDF Download
 
-<!-- <a target='_blank' href='../2024-1/2024-1_download/region.pdf'>Region Select Game PDF</a> -->
+<a target='_blank' href='../2024-1/2024-1_download/metricgeometry.pdf'>An Introduction to the Gromov-Hausdorff distance between spheres PDF</a>
