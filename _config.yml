@@ -87,6 +87,8 @@ just_the_docs:
   collections:
     about:
       name: About
+    Seminar:
+      name: Seminar
     2024-2:
       name: 2024-2
     2024-1:
