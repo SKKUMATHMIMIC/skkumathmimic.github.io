@@ -1,8 +1,8 @@
 ---
 layout: default
-title:  "2024 Fall Seminar"
+title:  "2024-2"
 # date: 2024-03-8 01:11:34 +0900
-collection: 2024-2
+collection: Seminar
 # usemathjax: true
 nav_order: 1
 # last_modified_date: 2023-03-06 +0900
