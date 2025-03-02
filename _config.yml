@@ -57,8 +57,11 @@ collections:
   about:
     permalink: "/:collection/:path/"
     output: true
+  Seminar:
+    permalink: "/:collection/:path/"
+    output: true
   2024-2:
-    permalink: "/:collection/:path"
+    permalink: "/:collection/:Seminar/:path"
     output: true
   2024-1:
     permalink: "/:collection/:path"
