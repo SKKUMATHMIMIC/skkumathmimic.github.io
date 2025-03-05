@@ -4,7 +4,7 @@ title:  "Introduction to hypothesis testing and statistics"
 date: 2024-11-26 18:00:00 +0900
 collection: 2024-2
 usemathjax: true
-nav_order: 13
+nav_order: 14
 parent: 2024 Fall Seminar
 # last_modified_date: 2023-03-06 +0900
 ---
