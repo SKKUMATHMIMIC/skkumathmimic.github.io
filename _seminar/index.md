@@ -2,14 +2,14 @@
 layout: default
 title:  "2025 Spring"
 # date: 2024-03-8 01:11:34 +0900
-collection: seminar
+collection: Seminar
 # usemathjax: true
 nav_order: 1
 # last_modified_date: 2023-03-06 +0900
 has_children: true
 has_toc: true
 ---
-# 2024 Spring Seminar
+# 2025 Spring Seminar
 
 TBA
 
