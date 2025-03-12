@@ -55,10 +55,10 @@ color_scheme: green
 
 collections:
   about:
-    permalink: "/:collection/:path/"
+    permalink: "/:collection/:path"
     output: true
   Seminar:
-    permalink: "/:collection/:path/"
+    permalink: "/:collection/:path"
     output: true
   2024-2:
     permalink: "/:collection/:path"
@@ -70,16 +70,16 @@ collections:
     permalink: "/:collection/:path"
     output: true
   2023-1:
-    permalink: "/:collection/:path/"
+    permalink: "/:collection/:path"
     output: true
   2022-2:
-    permalink: "/:collection/:path/"
+    permalink: "/:collection/:path"
     output: true
   2022-1:
-    permalink: "/:collection/:path/"
+    permalink: "/:collection/:path"
     output: true
   Legacy:
-    permalink: "/:collection/:path/"
+    permalink: "/:collection/:path"
     output: true
 
 
