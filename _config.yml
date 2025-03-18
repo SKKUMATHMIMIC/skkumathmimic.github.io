@@ -57,8 +57,8 @@ collections:
   about:
     permalink: "/:collection/:path"
     output: true
-  Seminar:
-    permalink: "/seminar/:path"
+  seminar:
+    permalink: "/:collection/:path"
     output: true
   2024-2:
     permalink: "/:collection/:path"
@@ -88,7 +88,7 @@ just_the_docs:
     about:
       name: About
     seminar:
-      name: seminar
+      name: Seminar
     2024-2:
       name: 2024-2
     2024-1:
@@ -103,9 +103,6 @@ just_the_docs:
       name: 2022-1
     Legacy:
       name: Legacy
-
-    nav_external: true
-    nav_data: navigation
 
 
 # Makes Aux links open in a new tab. Default is false
