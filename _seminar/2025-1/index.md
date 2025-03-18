@@ -2,7 +2,7 @@
 layout: default
 title:  "2025 Spring"
 # date: 2024-03-8 01:11:34 +0900
-collection: Seminar
+collection: seminar
 # usemathjax: true
 nav_order: 1
 # last_modified_date: 2023-03-06 +0900

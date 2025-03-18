@@ -87,8 +87,8 @@ just_the_docs:
   collections:
     about:
       name: About
-    Seminar:
-      name: Seminar
+    seminar:
+      name: seminar
     2024-2:
       name: 2024-2
     2024-1:
@@ -103,6 +103,10 @@ just_the_docs:
       name: 2022-1
     Legacy:
       name: Legacy
+    nav_external: true
+    nav_data: navigation
+
+
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
