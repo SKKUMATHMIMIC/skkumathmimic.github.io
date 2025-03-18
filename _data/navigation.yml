@@ -1,0 +1,8 @@
+main:
+  - title: "SEMINAR"
+    section: true
+    nav_order: 2
+    children:
+      - title: "2025 Spring Seminar"
+        url: "/seminars/2025-1"
+        nav_order: 1
