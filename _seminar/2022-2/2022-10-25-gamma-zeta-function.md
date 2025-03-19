@@ -2,11 +2,11 @@
 layout: default
 title:  "Gamma Function and Zeta Function"
 date: 2022-10-04 01:11:34 +0900
-collection: 2022-2
+collection: seminar
 usemathjax: true
 last_modified_date: 2022-10-24 +0900
 nav_order: 6
-parent: 2022 Fall Seminar
+parent: 2022 Fall
 author: 주현욱
 # nav_exclude: true
 ---
@@ -21,6 +21,6 @@ Analytic continuity is a technique for extending the domain of a function throug
 
 
 ## PDF Download
-<a target='_blank' href='../2022-2_download/gamma_zeta_function.pdf'>Gamma Function and Zeta Function</a> 
+<a target='_blank' href='download/gamma_zeta_function.pdf'>Gamma Function and Zeta Function</a> 
 
 <!-- ![image](../gamma_zeta.png) -->

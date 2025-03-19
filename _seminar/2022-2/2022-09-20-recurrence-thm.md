@@ -2,11 +2,11 @@
 layout: default
 title:  "Poincaré Recurrence Theorem"
 date: 2022-09-17 01:11:34 +0900
-collection: 2022-2
+collection: seminar
 usemathjax: true
 nav_order: 2
 last_modified_date: 2022-09-13 +0900
-parent: 2022 Fall Seminar
+parent: 2022 Fall
 ---
 # Poincaré Recurrence Theorem
 
@@ -29,4 +29,4 @@ systems.
 
 <!-- ## PDF Download -->
 
-<a target='_blank' href='../2022-2_download/recurrence.pdf'>Poincaré Recurrence Theorem PDF</a>
+<a target='_blank' href='download/recurrence.pdf'>Poincaré Recurrence Theorem PDF</a>

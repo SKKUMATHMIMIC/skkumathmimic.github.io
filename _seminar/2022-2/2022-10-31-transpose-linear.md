@@ -2,11 +2,11 @@
 layout: default
 title:  "Transpose of Linear Map"
 date: 2022-10-31 01:11:34 +0900
-collection: 2022-2
+collection: seminar
 usemathjax: true
 last_modified_date: 2022-10-31 +0900
 nav_order: 7
-parent: 2022 Fall Seminar
+parent: 2022 Fall
 author: 한도형
 # nav_exclude: true
 ---
@@ -23,6 +23,6 @@ In the fundamental theorem of linear algebra, we can identify matrix and linear 
 
 
 ## PDF Download
-<a target='_blank' href='../2022-2_download/transpose_of_linear_map.pdf'>Transpose of Linear Map</a> 
+<a target='_blank' href='download/transpose_of_linear_map.pdf'>Transpose of Linear Map</a> 
 
 <!-- ![image](../gamma_zeta.png) -->
