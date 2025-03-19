@@ -1,14 +1,14 @@
 ---
 layout: default
-title:  "Fundamental Theorem of Algebra"
-date: 2023-03-14 18:00:00 +0900
-collection: 2024-1
+title: "Introduction to Riordan poset and its application"
+date: 2024-05-23 18:00:00 +0900
+collection: seminar
 usemathjax: true
-nav_order: 2
-parent: 2024 Spring Seminar
+nav_order: 16
+parent: 2024 Spring
 # last_modified_date: 2023-03-06 +0900
 ---
-# Fundamental Theorem of Algebra
+# Introduction to Riordan poset and its application
 <!-- ## <center> Abstract </center>
 Francis Guthrie claimed in 1852 the four color problem. We
 proof two essential lemmas and then solve six color problem. We expand
@@ -18,8 +18,8 @@ by Heawood. Although flawed, Kempe’s idea was used as one of a basic
 tool. -->
 ## Video Link
 
-[![Video Label](https://img.youtube.com/vi/S0MOlw3m7TE/hqdefault.jpg)](https://youtu.be/S0MOlw3m7TE?feature=shared)
+[![Video Label](https://img.youtube.com/vi/ngzkD77vFRY/hqdefault.jpg)](https://youtu.be/ngzkD77vFRY)
 
-<!-- ## PDF Download -->
-
-<!-- <a target='_blank' href='../2024-1/2024-1_download/crime.pdf'>Crime PDF</a> -->
+## PDF Download
+TBA
+<!--a target='_blank' href='../2024-1/2024-1_download/Modeling.pdf'>Introduction to Riordan poset and its application </a>-->
