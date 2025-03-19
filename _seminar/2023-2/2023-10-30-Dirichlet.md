@@ -1,14 +1,14 @@
 ---
 layout: default
-title:  "What is Compactness"
-date: 2023-11-21 01:11:34 +0900
-collection: 2023-2
+title:  "Dirichlet's Theorem on Arithmetic Progression"
+date: 2023-10-30 01:11:34 +0900
+collection: seminar
 usemathjax: true
-nav_order: 14
-parent: 2023 Autumn Seminar
-last_modified_date: 2023-03-06 +0900
+nav_order: 7
+parent: 2023 Fall
+# last_modified_date: 2023-03-06 +0900
 ---
-# What is Compactness
+# Dirichlet's Theorem on Arithmetic Progression
 <!-- ## <center> Abstract </center>
 Francis Guthrie claimed in 1852 the four color problem. We
 proof two essential lemmas and then solve six color problem. We expand
@@ -18,8 +18,8 @@ by Heawood. Although flawed, Kempe’s idea was used as one of a basic
 tool. -->
 ## Video Link
 
-[![Video Label](https://img.youtube.com/vi/Nu9tENYkAJk/hqdefault.jpg)](https://youtu.be/Nu9tENYkAJk)
+[![Video Label](https://img.youtube.com/vi/99eDGIG6gkY/hqdefault.jpg)](https://youtu.be/99eDGIG6gkY)
 
 ## PDF Download
 
-<a target='_blank' href='../2023-2/2023-2_download/cpt.pdf'>What is Compactness PDF</a>
+<a target='_blank' href='download/Dirichlet.pdf'>Dirichlet's Theorem on Arithmetic Progression PDF</a>

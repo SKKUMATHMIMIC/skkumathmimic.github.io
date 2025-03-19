@@ -1,14 +1,14 @@
 ---
 layout: default
-title:  "Geometric Flow and Curve Shortening Flow"
-date: 2023-03-06 01:11:34 +0900
-collection: 2023-2
+title:  "Homomorphic Encryption"
+date: 2023-11-13 01:11:34 +0900
+collection: seminar
 usemathjax: true
-nav_order: 5
-parent: 2023 Autumn Seminar
+nav_order: 11
+parent: 2023 Fall
 last_modified_date: 2023-03-06 +0900
 ---
-# Geometric Flow and Curve Shortening Flow
+# Homomorphic Encryption
 <!-- ## <center> Abstract </center>
 Francis Guthrie claimed in 1852 the four color problem. We
 proof two essential lemmas and then solve six color problem. We expand
@@ -18,8 +18,8 @@ by Heawood. Although flawed, Kempe’s idea was used as one of a basic
 tool. -->
 ## Video Link
 
-[![Video Label](https://img.youtube.com/vi/-xe7_jDIpA4/hqdefault.jpg)](https://youtu.be/-xe7_jDIpA4)
+[![Video Label](https://img.youtube.com/vi/LAxPLI5CbmU/hqdefault.jpg)](https://youtu.be/LAxPLI5CbmU)
 
 ## PDF Download
 
-<a target='_blank' href='../2023-2/2023-2_download/CSF.pdf'>Geometric Flow and Curve Shortening Flow PDF</a>
+<a target='_blank' href='download/encryption.pdf'>Homomorphic Encryption PDF</a>

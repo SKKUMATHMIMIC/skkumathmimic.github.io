@@ -1,15 +1,14 @@
 ---
 layout: default
-title:  "Poset Submatrices of Infinite Binary Pascal Matrix"
-date: 2023-09-11 01:11:34 +0900
-collection: 2023-2
+title:  "Construction of the Real Numbers"
+date: 2023-09-05 01:11:34 +0900
+collection: seminar
 usemathjax: true
-nav_order: 3
-nav_exclude: true
-parent: 2023 Autumn Seminar
+nav_order: 2
+parent: 2023 Fall
 # last_modified_date: 2023-03-06 +0900
 ---
-# Poset Submatrices of Infinite Binary Pascal Matrix
+# Construction of the Real Numbers
 <!-- ## <center> Abstract </center>
 Francis Guthrie claimed in 1852 the four color problem. We
 proof two essential lemmas and then solve six color problem. We expand
@@ -19,7 +18,7 @@ by Heawood. Although flawed, Kempe’s idea was used as one of a basic
 tool. -->
 ## Video Link
 
-[![Video Label](https://img.youtube.com/vi/aXwZx2ilH2c/hqdefault.jpg)](https://youtu.be/aXwZx2iIH2c?si=x-lNzwi6PMI9Uq-n)
+[![Video Label](https://img.youtube.com/vi/Bzd_PcautuQ/hqdefault.jpg)](https://youtu.be/Bzd_PcautuQ?feature=shared)
 
 <!-- ## PDF Download -->
 
