@@ -2,10 +2,10 @@
 layout: default
 title:  "Stochastic Process, Nonlocal operaor, and PDE"
 date: 2023-05-01 +0900
-collection: 2023-1
+collection: seminar
 usemathjax: true
 nav_order: 7
-parent: 2023 Spring Seminar
+parent: 2023 Spring
 last_modified_date: 2023-05-01 +0900
 ---
 # Stochastic Process, Nonlocal operaor, and PDE
@@ -22,4 +22,4 @@ tool. -->
 
 ## PDF Download -->
 
-<a target='_blank' href='../2023-1_download/Stochastic process, Nonlocal Operator, PDE.pdf'>Stochastic Process, Nonlocal operaor, and PDE PDF</a>
+<a target='_blank' href='download/Stochastic process, Nonlocal Operator, PDE.pdf'>Stochastic Process, Nonlocal operaor, and PDE PDF</a>

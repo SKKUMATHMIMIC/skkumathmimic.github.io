@@ -1,14 +1,14 @@
 ---
 layout: default
-title:  "Number, Construction and Equation"
-date: 2023-05-08 +0900
-collection: 2023-1
+title:  "Parallel Postulate and Non-Euclidean Geometry"
+date: 2023-03-13 +0900
+collection: seminar
 usemathjax: true
-nav_order: 9
-parent: 2023 Spring Seminar
-last_modified_date: 2023-05-08 +0900
+nav_order: 2
+parent: 2023 Spring
+last_modified_date: 2023-03-13 +0900
 ---
-# Number, Construction and Equation
+# Parallel Postulate and Non-Euclidean Geometry
 <!-- ## <center> Abstract </center>
 Francis Guthrie claimed in 1852 the four color problem. We
 proof two essential lemmas and then solve six color problem. We expand
@@ -18,8 +18,8 @@ by Heawood. Although flawed, Kempe’s idea was used as one of a basic
 tool. -->
 ## Video Link
 
-[![Video Label](https://img.youtube.com/vi/MTj5rbSBdHs/hqdefault.jpg)](https://youtu.be/MTj5rbSBdHs)
+[![Video Label](https://img.youtube.com/vi/GT07SxAlAYw/hqdefault.jpg)](https://youtu.be/GT07SxAlAYw)
 
 ## PDF Download
 
-<a target='_blank' href='../2023-1_download/수,작도,그리고 방정식.pdf'>Number, Construction and Equation PDF</a>
+<a target='_blank' href='download/비유클리드기하학.pdf'>Parallel Postulate and Non-Euclidean Geometry PDF</a>
