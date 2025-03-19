@@ -60,9 +60,6 @@ collections:
   seminar:
     permalink: "/:collection/:path"
     output: true
-  2023-2:
-    permalink: "/:collection/:path"
-    output: true
   2023-1:
     permalink: "/:collection/:path"
     output: true
@@ -83,8 +80,6 @@ just_the_docs:
       name: About
     seminar:
       name: Seminars
-    2023-2:
-      name: 2023-2
     2023-1:
       name: 2023-1
     2022-2:
