@@ -8,7 +8,7 @@ nav_order: 1
 # has_children : true
 last_modified_date: 2022-09-06 +0900
 parent: 2022 Spring
-collections: 2022-1
+collections: seminar
 
 ---
 # Primes in Arithmetic Progression
@@ -20,4 +20,4 @@ collections: 2022-1
 <!-- ## PDF Download -->
 
 <!-- <object data="../2022_1_download/arithemetic_prime.pdf" width="750" height="1075" type='application/pdf'></object> -->
-<a target='_blank' href='../2022_1_download/arithemetic_prime.pdf'>arithemetic_prime PDF</a>
+<a target='_blank' href='download/arithemetic_prime.pdf'>arithemetic_prime PDF</a>

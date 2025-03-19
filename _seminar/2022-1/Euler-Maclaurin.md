@@ -8,7 +8,7 @@ nav_order: 2
 # has_children : true
 last_modified_date: 2022-09-06 +0900
 parent: 2022 Spring
-collections: 2022-1
+collections: seminar
 
 ---
 # Euler-Maclaurin Summation Formula
@@ -26,4 +26,4 @@ collections: 2022-1
 
 
 <!-- <object data="../2022_1_download/euler_maclaurin_final.pdf" width="750" height="1075" type='application/pdf'></object> -->
-<a target='_blank' href='../2022_1_download/euler_maclaurin_final.pdf'>Euler-Macluarin Summation Formula PDF</a>
+<a target='_blank' href='download/euler_maclaurin_final.pdf'>Euler-Macluarin Summation Formula PDF</a>

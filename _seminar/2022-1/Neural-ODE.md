@@ -8,7 +8,7 @@ nav_order: 6
 # has_children : true
 last_modified_date: 2022-09-06 +0900
 parent: 2022 Spring
-collections: 2022-1
+collections: seminar
 
 ---
 # Nerual Oridnary Differential Equation

@@ -4,7 +4,7 @@ title:  "Basel Problem"
 date: 2022-09-17 01:11:34 +0900
 usemathjax: true
 nav_order: 8
-collections: 2022-1
+collections: seminar
 last_modified_date: 2022-09-06 +0900
 parent: 2022 Spring
 ---
@@ -17,4 +17,4 @@ parent: 2022 Spring
 <!-- ## PDF Download -->
 
 <!-- <object data="../2022_1_download/basel_problem.pdf" width="750" height="1075" type='application/pdf'></object> -->
-<a target='_blank' href='../2022_1_download/basel_problem.pdf'>Basel Problem PDF</a>
+<a target='_blank' href='download/basel_problem.pdf'>Basel Problem PDF</a>
