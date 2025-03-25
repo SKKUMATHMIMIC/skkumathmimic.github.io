@@ -13,10 +13,12 @@ parent: 2025 Spring
 **Speaker:** Hyeonwook Joo (Sungkwunkwan University)   
    
 ## <center> Keyword </center>
-<center>   사이클로이드(cycloid)    </center>   
-<center>   최단 시간 강하 곡선(brachistochrone)   </center>   
-<center>   변분법(calculus of variations)   </center>
-
+<center>사이클로이드(cycloid)</center>   
+   
+<center>최단 시간 강하 곡선(brachistochrone)</center>  
+   
+<center>변분법(calculus of variations)</center>
+   
 ## <center> Abstract </center>
 
 ### 주제를 선택한 이유
@@ -28,7 +30,7 @@ parent: 2025 Spring
 ### 어떤 점이 재밌나요?
 베르누이가 제시한 최단 시간 강하 곡선 문제를 뉴턴이 하루 만에 어떻게 풀었는지 배울 수 있습니다. 또한, 두 점을 잇는 최단 거리 곡선이 직선인 이유를 엄밀하게 이해할 수 있습니다.
 
-### 어떤 사전 지식이 필요하나요
+### 어떤 사전 지식이 필요하나요?
 고등학교 미적분 내용과 역학적 에너지 보존 법칙만 알면 됩니다.
 
 ### 이외에 하고 싶은 말
