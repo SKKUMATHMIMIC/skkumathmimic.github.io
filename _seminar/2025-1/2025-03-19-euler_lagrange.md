@@ -11,9 +11,9 @@ parent: 2025 Spring
 # Euler-Lagrange equation
 
 ## <center> Keyword </center>
-<center> 사이클로이드(cycloid) </center>   
-<center> 최단 시간 강하 곡선(brachistochrone) </center>   
-<center> 변분법(calculus of variations) </center>
+<center>   사이클로이드(cycloid)    </center>   
+<center>   최단 시간 강하 곡선(brachistochrone)   </center>   
+<center>   변분법(calculus of variations)   </center>
 
 ## <center> Abstract </center>
 
