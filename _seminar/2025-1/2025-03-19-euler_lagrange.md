@@ -10,7 +10,7 @@ parent: 2025 Spring
 ---
 # Euler-Lagrange equation
 
-**Speaker:** Hyeonwook Joo   
+**Speaker:** Hyeonwook Joo (Sungkwunkwan University)   
    
 ## <center> Keyword </center>
 <center>   사이클로이드(cycloid)    </center>   
