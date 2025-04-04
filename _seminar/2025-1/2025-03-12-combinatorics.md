@@ -10,7 +10,7 @@ parent: 2025 Spring
 ---
 # A novel approach to math, Combinatorics
 
-**Speaker:** Hojoon Lee (Sungkwunkwan University) <br>
+**Speaker:** Hojoon Lee (Sungkyunkwan University) <br>
 
 ## <center> Keyword </center>
 <center>카탈란 수(Catalan number)</center>
