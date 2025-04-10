@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "A novel approach to math, Combinatorics"
+title:  "A Novel Approach to Math, Combinatorics"
 date: 2025-03-12 18:00:00 +0900
 collection: seminar
 usemathjax: true
@@ -8,7 +8,7 @@ nav_order: 2
 parent: 2025 Spring
 # last_modified_date: 2023-03-06 +0900
 ---
-# A novel approach to math, Combinatorics
+# A Novel Approach to Math, Combinatorics
 
 **Speaker:** Hojoon Lee (Sungkyunkwan University) <br>
 
