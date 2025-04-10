@@ -35,5 +35,5 @@ Jacobi-Proximal ADMM의 선형 수렴성 증명 과정을 살펴볼 수 있습�
 
 [![Video Label](pictures/9_optimization.jpg)](https://youtu.be/Z3O63VFtVG4)
 
-## PDF Download
-<a target='_blank' href='download/JPADMM.pdf'>A Linear Convergence for the Jacobi-Proximal ADMM PPT</a>
+## Presentation Material
+<a target='_blank' href='download/JPADMM.pdf'>Slide deck: A Linear Convergence for the Jacobi-Proximal ADMM </a>

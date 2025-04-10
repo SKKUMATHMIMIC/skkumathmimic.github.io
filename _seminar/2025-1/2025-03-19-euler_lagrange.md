@@ -35,5 +35,5 @@ parent: 2025 Spring
 
 [![Video Label](pictures/3_series.jpg)](https://www.youtube.com/watch?v=A7bbyU1Br3I)-->
 
-## PDF Download
-<a target='_blank' href='download/EulerLagrange.pdf'>Euler-Lagrange equation PPT</a>
+## Presentation Material
+<a target='_blank' href='download/EulerLagrange.pdf'>Slide deck: Euler-Lagrange equation PPT</a>
