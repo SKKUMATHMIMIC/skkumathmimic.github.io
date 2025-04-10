@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Euler-Lagrange equation"
+title:  "Euler-Lagrange Equation"
 date: 2025-03-19 18:00:00 +0900
 collection: seminar
 usemathjax: true
@@ -8,7 +8,7 @@ nav_order: 4
 parent: 2025 Spring
 # last_modified_date: 2023-03-06 +0900
 ---
-# Euler-Lagrange equation
+# Euler-Lagrange Equation
 
 **Speaker:** Hyeonwook Joo (Sungkyunkwan University) <br>
    
@@ -36,4 +36,4 @@ parent: 2025 Spring
 [![Video Label](pictures/3_series.jpg)](https://www.youtube.com/watch?v=A7bbyU1Br3I)-->
 
 ## Presentation Material
-<a target='_blank' href='download/EulerLagrange.pdf'>Slide deck: Euler-Lagrange equation</a>
+<a target='_blank' href='download/EulerLagrangeEquation.pdf'>Slide deck: Euler-Lagrange Equation</a>
