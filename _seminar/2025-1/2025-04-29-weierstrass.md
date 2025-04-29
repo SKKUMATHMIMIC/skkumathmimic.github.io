@@ -8,7 +8,7 @@ nav_order: 10
 parent: 2025 Spring
 # last_modified_date: 2023-03-06 +0900
 ---
-# 바이어슈트라스 함수의 연속성과 미분가능성 (Continuity & Differentiability of Weierstrass function)
+# Continuity and Differentiability of Weierstrass Function
 
 **Speaker:** Yeon-woo Jeong (Sungkyunkwan University) <br>
    
