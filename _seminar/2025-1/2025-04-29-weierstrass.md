@@ -10,7 +10,7 @@ parent: 2025 Spring
 ---
 # Continuity and Differentiability of Weierstrass Function
 
-**Speaker:** Yeon-woo Jeong (Sungkyunkwan University) <br>
+**Speaker:** Yeonwoo Jeong (Sungkyunkwan University) <br>
    
 ## <center> Keyword </center>
 <center>바이어슈트라스 함수</center>
