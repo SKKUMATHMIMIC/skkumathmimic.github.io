@@ -9,7 +9,7 @@ parent: 2025 Spring
 # last_modified_date: 2023-03-06 +0900
 ---
 # Game is Math
-- Mathematical Strategies and Algorithms in the Mini Metro Game
+(Mathematical Strategies and Algorithms in the Mini Metro Game)
 
 **Speaker:** Jae-ung Lee (Sungkyunkwan University) <br>
    
