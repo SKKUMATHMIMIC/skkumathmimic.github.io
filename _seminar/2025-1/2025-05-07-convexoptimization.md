@@ -9,9 +9,7 @@ parent: 2025 Spring
 # last_modified_date: 2023-03-06 +0900
 ---
 # Basic Convex Optimization
-
-
-###### Algorithm and Duality
+__Algorithm and Duality__
 
 **Speaker:** Kyungman Kim (Sungkyunkwan University) <br>
    
