@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Game is Math"
+title:  "Game is Math: Mathematical Strategies and Algorithms in the Mini Metro Game"
 date: 2025-05-21 18:00:00 +0900
 collection: seminar
 usemathjax: true
@@ -8,8 +8,7 @@ nav_order: 15
 parent: 2025 Spring
 # last_modified_date: 2023-03-06 +0900
 ---
-# Game is Math
-__Mathematical Strategies and Algorithms in the Mini Metro Game__
+# Game is Math: Mathematical Strategies and Algorithms in the Mini Metro Game
 
 **Speaker:** Jae-ung Lee (Sungkyunkwan University) <br>
    

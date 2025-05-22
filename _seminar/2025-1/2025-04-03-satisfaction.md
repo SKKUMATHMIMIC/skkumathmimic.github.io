@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Two Perspectives on 'Satisfaction', Topology and Economics"
+title:  "Two Perspectives on Satisfaction: Topology and Economics"
 date: 2025-04-03 18:00:00 +0900
 collection: seminar
 usemathjax: true
@@ -8,7 +8,7 @@ nav_order: 7
 parent: 2025 Spring
 # last_modified_date: 2023-03-06 +0900
 ---
-# Two Perspectives on 'Satisfaction', Topology and Economics
+# Two Perspectives on Satisfaction: Topology and Economics
 
 **Speaker:** Seong-eun Wang (Sungkyunkwan University) <br>
    

@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Basic Convex Optimization"
+title:  "Basic Convex Optimization (Algorithm and Duality)"
 date: 2025-05-07 18:00:00 +0900
 collection: seminar
 usemathjax: true
@@ -8,8 +8,7 @@ nav_order: 11
 parent: 2025 Spring
 # last_modified_date: 2023-03-06 +0900
 ---
-# Basic Convex Optimization
-__Algorithm and Duality__
+# Basic Convex Optimization (Algorithm and Duality)
 
 **Speaker:** Kyungman Kim (Sungkyunkwan University) <br>
    
