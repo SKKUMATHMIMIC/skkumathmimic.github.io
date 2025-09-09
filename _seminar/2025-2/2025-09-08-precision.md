@@ -20,4 +20,4 @@ parent: 2025 Fall
 
 ## Video Link
 
-[![Video Label](pictures/18_1_padic.jpg)](https://youtu.be/OFwdtXROV3E)
+[![Video Label](pictures/1_precision.jpg)](https://youtu.be/OFwdtXROV3E)
