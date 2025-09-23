@@ -23,4 +23,4 @@ parent: 2025 Fall
 
 ## Video Link
 
-[![Video Label](pictures/2_tessellation.jpg)](https://youtu.be/nugPnTSHynE)
+[![Video Label](pictures/3_tessellation.jpg)](https://youtu.be/nugPnTSHynE)
