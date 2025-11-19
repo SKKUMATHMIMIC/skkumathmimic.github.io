@@ -19,3 +19,7 @@ parent: 2025 Fall
 <br>
 
 **사전지식:** 선형대수학, 대수학<br>
+
+## Video Link
+
+[![Video Label](pictures/8_rootsystem.jpg)](https://youtu.be/4BoqwgK4WT4)
