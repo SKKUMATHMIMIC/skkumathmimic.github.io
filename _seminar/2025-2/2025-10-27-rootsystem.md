@@ -10,7 +10,7 @@ parent: 2025 Fall
 ---
 # Root System of Semisimple Lie Algebra and its Classification
 
-**Speaker:** Dong-hyeon Seo (Sungkyunkwan University) <br>
+**Speaker:** Donghyeon Seo (Sungkyunkwan University) <br>
    
 ## <center> 초록 </center>
 

@@ -10,7 +10,7 @@ parent: 2025 Spring
 ---
 # Computer and Simulation
 
-**Speaker:** Ji-un Ha (Sungkyunkwan University) <br>
+**Speaker:** Jiun Ha (Sungkyunkwan University) <br>
    
 ## <center> 주요어 </center>
 <center>통계적 추정</center>

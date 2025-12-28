@@ -10,7 +10,7 @@ parent: 2025 Spring
 ---
 # Two Perspectives on Satisfaction: Topology and Economics
 
-**Speaker:** Seong-eun Wang (Sungkyunkwan University) <br>
+**Speaker:** Seongeun Wang (Sungkyunkwan University) <br>
    
 ## <center> 주요어 </center>
 <center>슈페르너의 보조정리</center>

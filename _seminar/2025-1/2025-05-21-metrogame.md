@@ -10,7 +10,7 @@ parent: 2025 Spring
 ---
 # Game is Math: Mathematical Strategies and Algorithms in the Mini Metro Game
 
-**Speaker:** Jae-ung Lee (Sungkyunkwan University) <br>
+**Speaker:** Jaeung Lee (Sungkyunkwan University) <br>
    
 ## <center> 주요어 </center>
 <center>게임</center>

@@ -10,7 +10,7 @@ parent: 2025 Spring
 ---
 # Integration Techniques and Feynman's Trick
 
-**Speaker:** Do-hyeon Park (Sungkyunkwan University) <br>
+**Speaker:** Dohyeon Park (Sungkyunkwan University) <br>
    
 ## <center> 주요어 </center>
 <center>적분</center>
