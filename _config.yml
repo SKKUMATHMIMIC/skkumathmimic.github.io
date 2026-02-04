@@ -63,6 +63,9 @@ collections:
   Legacy:
     permalink: "/:collection/:path"
     output: true
+  conference:
+    permalink: "/:collection/:path"
+    output: true
 
 
 just_the_docs:
@@ -73,6 +76,8 @@ just_the_docs:
       name: Seminars
     Legacy:
       name: Legacy
+    conference:
+      name: Conference
 
 
 # Makes Aux links open in a new tab. Default is false
