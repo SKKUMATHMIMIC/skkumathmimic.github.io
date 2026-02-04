@@ -113,9 +113,9 @@ search:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-pdf-embed
+ # - jekyll-pdf-embed
   - jekyll-include-cache
-  - jekyll-archives
+ # - jekyll-archives
 
 # Exclude from processing.
 # The following items will not be processed, by default.
