@@ -1,5 +1,6 @@
 ---
 permalink: /assets/js/search-data.json
+published: false
 ---
 {
 {%- assign i = 0 -%}
