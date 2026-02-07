@@ -10,7 +10,7 @@ parent: 2025 Fall
 ---
 # Course Registration and Game Theory
 
-**Speaker:** Seongeun Wang (Sungkyunkwan University) <br>
+**Speaker:** Seong-eun Wang (Sungkyunkwan University) <br>
    
 ## <center> 초록 </center>
 
