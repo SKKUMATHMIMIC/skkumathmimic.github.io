@@ -51,8 +51,6 @@ heading_anchors: true
 
 markdown: kramdown
 
-color_scheme: green
-
 collections:
   about:
     permalink: "/:collection/:path"
