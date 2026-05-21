@@ -18,26 +18,23 @@
   <circle cx="700" cy="300" r="160" fill="none" stroke="url(#goldGrad)" stroke-width="1.5" stroke-opacity="0.15" />
   <circle cx="100" cy="550" r="180" fill="none" stroke="#ffffff" stroke-width="1" stroke-opacity="0.05" />
 
-  <g transform="translate(640, 150)">
-    <circle cx="0" cy="0" r="45" fill="#ffffff" fill-opacity="0.03" />
-    <path d="M0,-30 L7,-9 L29,-9 L11,4 L18,26 L0,12 L-18,26 L-11,4 L-29,-9 L-7,-9 Z" fill="url(#goldGrad)" />
-  </g>
+
 
   <g transform="translate(70, 0)">
     
     <text x="0" y="125" font-family="'Noto Sans KR', 'Helvetica Neue', sans-serif" font-size="16" font-weight="700" fill="url(#goldGrad)" letter-spacing="4">SKKU MATH MIMIC</text>
     <line x1="0" y1="140" x2="60" y2="140" stroke="url(#goldGrad)" stroke-width="2" />
 
-    <text x="0" y="235" font-family="'Helvetica Neue', Arial, sans-serif" font-size="86" font-weight="900" fill="#FFFFFF" letter-spacing="-2">2026</text>
+    <text x="0" y="235" font-family="'Noto Sans KR', 'Helvetica Neue', sans-serif" font-size="72" font-weight="800" fill="#FFFFFF" letter-spacing="-2">2026</text>
 
-    <text x="0" y="322" font-family="'Noto Sans KR', sans-serif" font-size="52" font-weight="800" fill="#FFFFFF" letter-spacing="-0.5">
+    <text x="0" y="322" font-family="'Noto Sans KR', sans-serif" font-size="60" font-weight="600" fill="#FFFFFF" letter-spacing="-0.5">
       성균 명품 스터디클럽 <tspan fill="url(#goldGrad)">선정</tspan>
     </text>
 
-    <text x="0" y="392" font-family="'Helvetica Neue', Arial, sans-serif" font-size="34" font-weight="700" fill="#A3B8B0" letter-spacing="0.5">SKKU PRESTIGE STUDY CLUB</text>
+    <text x="0" y="392" font-family="'Noto Sans KR', 'Helvetica Neue', sans-serif" font-size="40" font-weight="500" fill="#A3B8B0" letter-spacing="0.5">SKKU PRESTIGE STUDY CLUB</text>
     
     <text x="0" y="490" font-family="'Noto Sans KR', sans-serif" font-size="16" font-weight="500" fill="#719286" letter-spacing="1">성균관대학교 수학과 학술동아리 MIMIC</text>
-    <text x="0" y="515" font-family="'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#527065" letter-spacing="1">DEPARTMENT OF MATHEMATICS, SKKU</text>
+    <text x="0" y="515" font-family="'Noto Sans KR', 'Helvetica Neue', sans-serif" font-size="12" font-weight="400" fill="#527065" letter-spacing="1">DEPARTMENT OF MATHEMATICS, SKKU</text>
 
   </g>
   
