@@ -38,8 +38,16 @@ nav_active: news
       {% assign news_date_ko = item.date_display_ko | default: item.event_date_ko | default: news_date %}
       {% assign news_period = item.period | default: '' %}
       {% assign news_period_ko = item.period_ko | default: news_period %}
+      {% assign news_thumb = item.thumbnail | default: '' %}
+      {% assign news_excerpt_ko = item.summary_body_ko | default: '' %}
+      {% assign news_excerpt_en = item.summary_body | default: '' %}
       <li>
         <a class="news-link-row" href="{{ item.url | relative_url }}">
+          {% if news_thumb != '' %}
+          <div class="news-link-thumb">
+            <img src="{{ news_thumb | relative_url }}" alt="{{ news_title_ko | escape }}" loading="lazy">
+          </div>
+          {% endif %}
           <span class="news-link-main">
             <span class="news-link-title localized-fixed">
               <span class="localized-fixed-sizer" aria-hidden="true">{{ news_title }}</span>
@@ -52,29 +60,44 @@ nav_active: news
                 {{ news_title_ko }}
               </span>
             </span>
-            {% if news_period != '' or news_period_ko != '' %}
-            <span class="news-link-period localized-fixed localized-fixed-inline">
-              <span class="localized-fixed-sizer" aria-hidden="true">{{ news_period }}</span>
+            {% if news_excerpt_ko != '' or news_excerpt_en != '' %}
+            <span class="news-link-excerpt localized-fixed">
+              <span class="localized-fixed-sizer" aria-hidden="true">{{ news_excerpt_en | strip_newlines | truncatewords: 22 }}</span>
               <span
                 class="localized-fixed-text"
                 data-language-text
-                data-language-text-ko="{{ news_period_ko | escape }}"
-                data-language-text-en="{{ news_period | escape }}"
+                data-language-text-ko="{{ news_excerpt_ko | strip_newlines | truncatewords: 22 | escape }}"
+                data-language-text-en="{{ news_excerpt_en | strip_newlines | truncatewords: 22 | escape }}"
               >
-                {{ news_period_ko }}
+                {{ news_excerpt_ko | strip_newlines | truncatewords: 22 }}
               </span>
             </span>
             {% endif %}
-          </span>
-          <span class="news-link-date localized-fixed">
-            <span class="localized-fixed-sizer" aria-hidden="true">{{ news_date }}</span>
-            <span
-              class="localized-fixed-text"
-              data-language-text
-              data-language-text-ko="{{ news_date_ko | escape }}"
-              data-language-text-en="{{ news_date | escape }}"
-            >
-              {{ news_date_ko }}
+            <span class="news-link-foot">
+              {% if news_period != '' or news_period_ko != '' %}
+              <span class="news-link-period localized-fixed localized-fixed-inline">
+                <span class="localized-fixed-sizer" aria-hidden="true">{{ news_period }}</span>
+                <span
+                  class="localized-fixed-text"
+                  data-language-text
+                  data-language-text-ko="{{ news_period_ko | escape }}"
+                  data-language-text-en="{{ news_period | escape }}"
+                >
+                  {{ news_period_ko }}
+                </span>
+              </span>
+              {% endif %}
+              <span class="news-link-date localized-fixed">
+                <span class="localized-fixed-sizer" aria-hidden="true">{{ news_date }}</span>
+                <span
+                  class="localized-fixed-text"
+                  data-language-text
+                  data-language-text-ko="{{ news_date_ko | escape }}"
+                  data-language-text-en="{{ news_date | escape }}"
+                >
+                  {{ news_date_ko }}
+                </span>
+              </span>
             </span>
           </span>
         </a>
