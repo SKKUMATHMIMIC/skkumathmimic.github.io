@@ -383,7 +383,7 @@
         <a
           class="card news-card"
           href="{{ item.url | relative_url }}"
-          style="{% if news_thumbnail != '' %}background-image: url('{{ news_thumbnail | relative_url }}'); {% else %}background: linear-gradient(135deg, rgba(237, 244, 239, 0.92), rgba(225, 235, 229, 0.98)); {% endif %}background-position: center; background-size: cover;"
+          style="{% if news_thumbnail != '' %}background-image: url('{{ news_thumbnail | relative_url }}'); {% else %}background: linear-gradient(135deg, rgba(237, 244, 239, 0.92), rgba(225, 235, 229, 0.98)); {% endif %}background-position: {{ item.thumbnail_position | default: 'center' }}; background-size: cover;"
         >
           <div class="project-info">
             <div class="project-bio">
