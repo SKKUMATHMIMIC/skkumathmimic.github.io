@@ -334,6 +334,17 @@
         filter: brightness(0.8) saturate(0.9) contrast(0.97);
       }
 
+      .news-gallery-item.is-featured {
+        column-span: all;
+        margin-bottom: 0.75rem;
+      }
+
+      .news-gallery-item.is-featured img {
+        max-height: 560px;
+        object-fit: cover;
+        width: 100%;
+      }
+
       .news-gallery-item:hover {
         transform: translateY(-2px);
         box-shadow: 0 14px 24px rgba(0, 0, 0, 0.1);
