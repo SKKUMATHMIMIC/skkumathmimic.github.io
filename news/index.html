@@ -62,14 +62,14 @@ nav_active: news
             </span>
             {% if news_excerpt_ko != '' or news_excerpt_en != '' %}
             <span class="news-link-excerpt localized-fixed">
-              <span class="localized-fixed-sizer" aria-hidden="true">{{ news_excerpt_en | strip_newlines | truncatewords: 22 }}</span>
+              <span class="localized-fixed-sizer" aria-hidden="true">{{ news_excerpt_en | strip_newlines | truncatewords: 32 }}</span>
               <span
                 class="localized-fixed-text"
                 data-language-text
-                data-language-text-ko="{{ news_excerpt_ko | strip_newlines | truncatewords: 22 | escape }}"
-                data-language-text-en="{{ news_excerpt_en | strip_newlines | truncatewords: 22 | escape }}"
+                data-language-text-ko="{{ news_excerpt_ko | strip_newlines | truncatewords: 32 | escape }}"
+                data-language-text-en="{{ news_excerpt_en | strip_newlines | truncatewords: 32 | escape }}"
               >
-                {{ news_excerpt_ko | strip_newlines | truncatewords: 22 }}
+                {{ news_excerpt_ko | strip_newlines | truncatewords: 32 }}
               </span>
             </span>
             {% endif %}
