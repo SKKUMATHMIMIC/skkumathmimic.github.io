@@ -400,9 +400,9 @@
         </section>
          {% endif %}
 
+        {% if page.video_url != blank %}
         <section class="seminar-video detail-card">
           <h2>{{ page.video_heading | default: 'Video Link' }}</h2>
-          {% if page.video_url %}
           <a
             class="seminar-video-thumb-link"
             href="{{ page.video_url }}"
@@ -416,14 +416,8 @@
               alt="{{ page.thumbnail_alt | default: seminar_title_en }}"
             />
           </a>
-          {% else %}
-          <img
-            class="seminar-image"
-            src="{{ page.thumbnail_src | default: '/assets/project/project-one.png' | relative_url }}"
-            alt="{{ page.thumbnail_alt | default: seminar_title_en }}"
-          />
-          {% endif %}
         </section>
+        {% endif %}
 
         {% if page.materials %}
         <section class="seminar-materials detail-card">
