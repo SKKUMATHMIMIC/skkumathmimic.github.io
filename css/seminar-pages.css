@@ -5,14 +5,10 @@
   --sidebar-hover: #eef6f0;
   --page-bg: #fbfbfd;
   --panel-bg: #fbfbfd;
+  --sidebar-bg: #f6f5f9;
+  --sidebar-divider: rgba(15, 23, 42, 0.05);
   --content-muted: #56525f;
   --content-subtle: #666666;
-  --season-icon-border: #c8c3d7;
-  --season-icon-bg-start: #ffffff;
-  --season-icon-bg-end: #eef6f0;
-  --season-icon-shadow: rgba(28, 107, 66, 0.12);
-  --season-icon-shadow-strong: rgba(28, 107, 66, 0.18);
-  --season-icon-border-hover: #6da985;
   --seminar-footer-gap: clamp(10rem, 20vh, 15rem);
 }
 
@@ -46,14 +42,10 @@ body.seminar-page {
   --sidebar-hover: #1b201c;
   --page-bg: #101210;
   --panel-bg: #151815;
+  --sidebar-bg: #131512;
+  --sidebar-divider: rgba(255, 255, 255, 0.06);
   --content-muted: #d0d8d2;
   --content-subtle: #99a39b;
-  --season-icon-border: #474f47;
-  --season-icon-bg-start: #1b201c;
-  --season-icon-bg-end: #151914;
-  --season-icon-shadow: rgba(0, 0, 0, 0.30);
-  --season-icon-shadow-strong: rgba(0, 0, 0, 0.42);
-  --season-icon-border-hover: #73b892;
 }
 
 [data-theme="dark"] .season-toggle,
@@ -74,8 +66,8 @@ body.seminar-page {
 }
 
 .seminar-sidebar {
-  border-right: 1px solid var(--sidebar-border);
-  background: var(--panel-bg);
+  border-right: 1px solid var(--sidebar-divider);
+  background: var(--sidebar-bg);
 }
 
 .seminar-sidebar-header {
@@ -119,22 +111,18 @@ body.seminar-page {
 
 .season-icon {
   --icon-rotation: 0deg;
-  width: 2.3rem;
-  height: 2.3rem;
+  width: 1.4rem;
+  height: 1.4rem;
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  border: 1px solid var(--season-icon-border);
-  border-radius: 999px;
-  background: linear-gradient(180deg, var(--season-icon-bg-start) 0%, var(--season-icon-bg-end) 100%);
-  box-shadow: 0 8px 20px var(--season-icon-shadow);
   color: var(--sidebar-accent);
-  font-size: 0.95rem;
+  font-size: 1.05rem;
   font-weight: 700;
   line-height: 1;
   flex-shrink: 0;
-  transform: translateY(-1px) rotate(var(--icon-rotation));
-  transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+  transform: rotate(var(--icon-rotation));
+  transition: transform 0.2s ease, opacity 0.2s ease;
 }
 
 .season-toggle[aria-expanded="false"] .season-icon {
@@ -142,9 +130,7 @@ body.seminar-page {
 }
 
 .season-toggle:hover .season-icon {
-  transform: translateY(-2px) rotate(var(--icon-rotation));
-  border-color: var(--season-icon-border-hover);
-  box-shadow: 0 12px 24px var(--season-icon-shadow-strong);
+  opacity: 0.7;
 }
 
 .season-items {
