@@ -59,6 +59,10 @@ const applyLanguage = (target) => {
       node.innerHTML = localizedText.replace(/\n/g, "<br>");
     }
   });
+
+  if (window.MathJax && typeof window.MathJax.typesetPromise === "function") {
+    window.MathJax.typesetPromise();
+  }
 };
 
 document.querySelectorAll("[data-language-toggle]").forEach((toggleRoot) => {
