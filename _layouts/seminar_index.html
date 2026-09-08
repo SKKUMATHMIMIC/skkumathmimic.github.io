@@ -90,6 +90,76 @@
         font-weight: 800;
       }
 
+      .seminar-schedule {
+        margin-top: 2.2rem;
+      }
+
+      .seminar-schedule-heading {
+        margin-bottom: 1rem;
+      }
+
+      .seminar-schedule-heading h3 {
+        margin: 0 0 0.35rem;
+        color: var(--text-color);
+        font-size: 1.5rem;
+      }
+
+      .seminar-schedule-heading p {
+        margin: 0;
+        font-size: 0.96rem;
+        color: var(--content-subtle);
+      }
+
+      .seminar-table-wrap {
+        width: 100%;
+        overflow-x: auto;
+        border: 1px solid var(--sidebar-border);
+        border-radius: 0.9rem;
+        background: var(--panel-bg);
+      }
+
+      .seminar-schedule-table {
+        width: 100%;
+        min-width: 620px;
+        border-collapse: collapse;
+        color: var(--text-color);
+      }
+
+      .seminar-schedule-table th,
+      .seminar-schedule-table td {
+        padding: 0.9rem 1rem;
+        border-bottom: 1px solid var(--sidebar-border);
+        text-align: left;
+        vertical-align: middle;
+      }
+
+      .seminar-schedule-table th {
+        background: var(--sidebar-hover);
+        color: var(--sidebar-accent);
+        font-size: 0.86rem;
+        font-weight: 800;
+        letter-spacing: 0.02em;
+      }
+
+      .seminar-schedule-table th:first-child,
+      .seminar-schedule-table th:nth-child(2) {
+        width: 7.5rem;
+      }
+
+      .seminar-schedule-table th:last-child {
+        width: auto;
+      }
+
+      .seminar-schedule-table tbody tr:last-child td {
+        border-bottom: 0;
+      }
+
+      .seminar-schedule-placeholder td {
+        padding: 1.6rem 1rem;
+        color: var(--content-subtle);
+        text-align: center;
+      }
+
       .seminar-lang-panel[hidden] {
         display: none;
       }
@@ -137,6 +207,14 @@
 
         .seminar-key-value {
           font-size: 1rem;
+        }
+
+        .seminar-schedule {
+          margin-top: 1.8rem;
+        }
+
+        .seminar-schedule-heading h3 {
+          font-size: 1.3rem;
         }
 
         .detail-toolbar {
