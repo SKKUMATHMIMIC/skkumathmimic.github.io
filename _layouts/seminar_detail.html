@@ -419,6 +419,16 @@
         </section>
         {% endif %}
 
+        {% if page.thumbnail_src and page.video_url == blank %}
+        <section class="seminar-video detail-card" aria-label="{{ page.thumbnail_alt | default: seminar_title_en | escape }}">
+          <img
+            class="seminar-image"
+            src="{{ page.thumbnail_src | relative_url }}"
+            alt="{{ page.thumbnail_alt | default: seminar_title_en | escape }}"
+          />
+        </section>
+        {% endif %}
+
         {% if page.materials %}
         <section class="seminar-materials detail-card">
           <h2>{{ page.materials_heading | default: 'Presentation Material' }}</h2>
