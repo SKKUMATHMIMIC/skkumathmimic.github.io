@@ -364,6 +364,16 @@
               data-language-text-en="{{ speaker_en | escape }}"
             >{{ speaker_ko }}</span>
           </div>
+          {% if page.difficulty %}
+          <div class="seminar-meta">
+            <strong
+              data-language-text
+              data-language-text-ko="{{ page.difficulty_label_ko | default: '난이도' | escape }}"
+              data-language-text-en="{{ page.difficulty_label_en | default: 'Difficulty' | escape }}"
+            >{{ page.difficulty_label_ko | default: '난이도' }}</strong>:
+            <span>{{ page.difficulty }}</span>
+          </div>
+          {% endif %}
         </header>
 
         {% if page.abstract_body_ko or page.abstract_body_en or content != '' %}
