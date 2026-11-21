@@ -287,6 +287,13 @@ body {
   margin: 3.25rem auto 0;
 }
 
+#events {
+  display: flex;
+  flex-direction: column;
+  margin: 2rem auto 5rem;
+  scroll-margin-top: 98px;
+}
+
 #news {
   display: flex;
   flex-direction: column;
@@ -796,6 +803,7 @@ body {
 
 #seminars .project > .card,
 #conferences .project > .card,
+#events .project > .card,
 #news .project > .card {
   display: block;
   width: 100%;
@@ -893,6 +901,19 @@ body {
   }
 }
 
+
+@media (min-width: 671px) and (max-width: 1000px) {
+  .navbar .nav-link {
+    margin: 0 0.6rem;
+  }
+}
+
+@media (min-width: 671px) and (max-width: 860px) {
+  .navbar .nav-link {
+    margin: 0 0.4rem;
+    font-size: 0.8rem;
+  }
+}
 
 @media (max-width: 768px) {
 }
@@ -1006,11 +1027,13 @@ body {
   }
 
   #conferences .project,
+  #events .project,
   #news .project {
     grid-template-columns: 1fr !important;
   }
 
   #conferences .project > .card,
+  #events .project > .card,
   #news .project > .card {
     min-height: 220px;
   }
@@ -1022,7 +1045,8 @@ body {
 }
 
 @media (min-width: 1001px) {
-  #conferences .project {
+  #conferences .project,
+  #events .project {
     grid-template-columns: repeat(2, minmax(0, 350px));
     width: fit-content;
     margin-left: auto;
@@ -1030,7 +1054,8 @@ body {
   }
 }
 
-#conferences .project > .card {
+#conferences .project > .card,
+#events .project > .card {
   aspect-ratio: 4 / 3;
   height: auto !important;
   min-height: 250px;
@@ -1258,7 +1283,9 @@ body {
 
 /* Conferences 섹션 설명: "MCUS was established..." */
 #conferences > p,
-#conferences .content-text p {
+#conferences .content-text p,
+#events > p,
+#events .content-text p {
   font-size: 1.05rem;
   line-height: 1.75;
 }
