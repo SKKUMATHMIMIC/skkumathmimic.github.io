@@ -1054,6 +1054,14 @@ body {
   }
 }
 
+@media (min-width: 671px) {
+  #conferences .project {
+    grid-template-columns: minmax(0, 350px) !important;
+    width: 100%;
+    justify-content: center;
+  }
+}
+
 #conferences .project > .card,
 #events .project > .card {
   aspect-ratio: 4 / 3;
